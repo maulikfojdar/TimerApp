@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StepCounter</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_steps">Timer in seconds:</string>
+    <string name="Click">Click</string>
+    <string name="enter_steps">Number of steps</string>
+    <string name="enable_timer">Enable Timer</string>
+    <string name="close">Close</string>
+    <string name="timer">Timer: </string>
+    <string name="timer_value">0</string>
+
+</resources>
